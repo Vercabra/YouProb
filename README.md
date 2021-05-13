@@ -1,2 +1,2 @@
 # YouProb
-This is a system, that uses video data and statistic to predict next statistic.
+YouProb - це система, яка дозволяє збирати данні з відеохостінгу YouTube через користувацькі запити.
