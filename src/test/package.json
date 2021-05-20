@@ -1,0 +1,13 @@
+{
+  "name": "jest-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.0.1"
+  }
+}

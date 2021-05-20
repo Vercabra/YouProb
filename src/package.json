@@ -20,6 +20,7 @@
   "devDependencies": {
     "bluebird": "^3.7.2",
     "chalk": "^4.1.1",
+    "jest": "^26.6.3",
     "queue-promise": "^2.2.0"
   }
 }

@@ -69,7 +69,7 @@ async function processing () {
                 })
             }).catch((err) => reject(err))
         }))
-        })
+    })
     queue.start()
 }
 processing()

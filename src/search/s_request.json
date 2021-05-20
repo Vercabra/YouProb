@@ -1,0 +1,83 @@
+[
+ {
+  "req": "Slipknot",
+  "amount": "5",
+  "updatedAt": "2021-05-20T19:45:09.791Z",
+  "result": [
+   {
+    "title": "Slipknot - Psychosocial [OFFICIAL VIDEO]",
+    "views": "398551393"
+   },
+   {
+    "title": "Slipknot - The Devil In I [OFFICIAL VIDEO]",
+    "views": "308273654"
+   },
+   {
+    "title": "Slipknot - Unsainted [OFFICIAL VIDEO]",
+    "views": "102373073"
+   },
+   {
+    "title": "Slipknot - Duality [OFFICIAL VIDEO]",
+    "views": "294806399"
+   },
+   {
+    "title": "Slipknot - Solway Firth [OFFICIAL VIDEO]",
+    "views": "56043843"
+   }
+  ]
+ },
+ {
+  "req": "Papa Roach",
+  "amount": "5",
+  "updatedAt": "2021-05-20T19:45:09.842Z",
+  "result": [
+   {
+    "title": "Papa Roach - Last Resort (Squeaky-clean Version)",
+    "views": "141874628"
+   },
+   {
+    "title": "Papa Roach - Scars (Official Video)",
+    "views": "105393378"
+   },
+   {
+    "title": "Papa Roach - Between Angels And Insects (Official Video)",
+    "views": "76411229"
+   },
+   {
+    "title": "Papa Roach x Jeris Johnson - Last Resort Reloaded (Official Music Video)",
+    "views": "4208973"
+   },
+   {
+    "title": "Kayzo, Sullivan King, Papa Roach - Domination (Official Music Video)",
+    "views": "41944"
+   }
+  ]
+ },
+ {
+  "req": "DOOM ETHERNAL",
+  "amount": "5",
+  "updatedAt": "2021-05-20T19:45:09.935Z",
+  "result": [
+   {
+    "title": "Обзор игры Doom Eternal",
+    "views": "903501"
+   },
+   {
+    "title": "Прохождение Doom Eternal — Часть 1: Палач Рока ✪ PC [4K]",
+    "views": "496672"
+   },
+   {
+    "title": "Doom Eternal: 100% Ultra-Nightmare Speedrun in 2:33:52",
+    "views": "1850831"
+   },
+   {
+    "title": "DOOM Eternal OST Remastered Version Full Official Soundtrack by Mick Gordon",
+    "views": "3365452"
+   },
+   {
+    "title": "DOOM Eternal — Официальный трейлер №2",
+    "views": "1200356"
+   }
+  ]
+ }
+]

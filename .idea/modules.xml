@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/YouProb.iml" filepath="$PROJECT_DIR$/.idea/YouProb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tg-scrapper-master/.idea/tg-scrapper-master.iml" filepath="$PROJECT_DIR$/../tg-scrapper-master/.idea/tg-scrapper-master.iml" />
     </modules>
   </component>
 </project>
