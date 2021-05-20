@@ -10,8 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cli-progress": "^3.9.0",
     "dotenv": "^9.0.2",
     "googleapis": "^73.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "bluebird": "^3.7.2",
+    "chalk": "^4.1.1",
+    "queue-promise": "^2.2.0"
   }
 }
